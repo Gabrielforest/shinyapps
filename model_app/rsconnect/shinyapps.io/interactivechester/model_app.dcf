@@ -1,0 +1,11 @@
+name: model_app
+title:
+username:
+account: interactivechester
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6059141
+bundleId: 5805802
+url: https://interactivechester.shinyapps.io/model_app/
+when: 1650153051.93617
+lastSyncTime: 1650153051.93617
