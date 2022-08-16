@@ -1,0 +1,13 @@
+name: volumetric_production_projection
+title: volumetric_production_projection
+username:
+account: interactivechester
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6789727
+bundleId: 6204608
+url: https://interactivechester.shinyapps.io/volumetric_production_projection/
+when: 1660610497.48333
+lastSyncTime: 1660610497.48333
+asMultiple: FALSE
+asStatic: FALSE
